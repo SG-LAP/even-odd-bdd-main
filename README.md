@@ -1,2 +1,2 @@
-# even-odd-bdd-main
- even-odd-bdd-main
+# Dehaviour Driven Development
+ even odd BDD example
